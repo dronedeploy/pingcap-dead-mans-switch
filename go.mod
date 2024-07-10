@@ -9,3 +9,4 @@ require (
 	github.com/prometheus/client_golang v1.7.1
 	gopkg.in/yaml.v2 v2.3.0
 )
+replace github.com/team-rocos/pingcap-dead-mans-switch => github.com/dronedeploy/pingcap-dead-mans-switch
